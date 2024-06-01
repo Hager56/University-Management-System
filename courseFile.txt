@@ -1,0 +1,50 @@
+Introduction_to_computer_sciences CIS160 0 600 3 fahmy_tolba 1 14 
+Data_Structure CIS270 0 1000 3 Ava_Hazel 0 0 CIS250 
+English_language_I HUM11 0 900 3 tomas 0 14 
+Electronics CIS124 0 899 4 Monear_mohamed 1 0 BSC121 
+Physics_I BSC121 0 800 3 shrodinger 0 14 
+Operation_Research CIS230 0 897 3 Luna_Aurora 0 0 
+Selected_Topic(1) STU130 1 500 2 alex 0 0 
+Calculus_I BSC122 0 700 3 said_abd_alwhab 0 14 
+Prpbability_&_Statistical BSC123 0 400 3 mahmod_monear 0 14 
+Structured_Programming CIS150 0 900 3 Henry_Noah 0 0 CIS160 
+Calculus_II CIS125 0 900 3 Tolba_fahmy 0 0 BSC122 
+Selected_Topic(3) STU150 1 700 2 Flix_theo 0 0 
+Object_Oriented_Programming CIS250 0 900 3 Mohammad_mabrok 0 0 CIS150 
+Human_Rights HUM119 0 400 2 Atlas_theo 0 0 
+Data_Security INF323 0 124 3 hacker 0 0 CIS365 
+Physics_II BSC126 0 500 3 shrodinger 0 0 BSC121 
+Computer_Organization_&_Architecture CIS220 0 750 3 Evelyn_Wren 0 0 CIS260 
+Report_Writing HUM113 0 300 2 Jasper_Finn 0 0 
+Discrete_Mathematics BSC221 0 800 3 Mohammed_abd_a'l 0 0 
+Logic_Design CIS260 0 900 3 Sophia_Wren 0 0 BSC121 
+Computer_Networks CIS365 0 45 3 al-shabaka 0 0 CIS160 
+Database_Management_Systems CIS280 0 900 3 Violet_Lvy 0 0 CIS150 
+Statistical_Analysis CIS240 0 700 3 Olivia_Iris 0 0 BSC123 
+Linear_Algebra BSC225 0 789 3 Genevieve_Meave 0 0 
+Artificial_Intelligence CIS243 0 500 3 Amelia_Kamlia 0 0 BSC123 CIS150 BSC122 
+Operating_Systems CIS353 0 587 3 da7e7 0 0 CIS220 
+Computer_Graphics SCO311 0 258 3 al-monaliza 0 0 BSC225 CIS150 
+Compiler_Theory CSC360 0 128 3 hacker 0 0 BSC221 
+System_Analysis_&_design CIS290 0 789 3 al-mo7alel 0 0 CIS280 
+Data_Mining INF311 0 951 3 al-fanan 0 0 CIS280 
+Analysis_&_Design_of_Algorithms CIS340 0 357 3 al-da7e7 0 0 CIS150 
+Software_engineering CIS380 0 753 3 al-mohandis 0 0 CIS150 
+Pattern_Recognition CSC330 0 459 3 O_O_abo_3yn 0 0 CIS150 BSC123 
+Natural_Language_Processing CSC340 0 452 3 Mr.X 0 0 CIS150 
+Concepts_of_Programming_Languages CSC350 0 754 3 abo_2lson 0 0 CIS250 
+Statistical_Inference INF312 0 356 3 andrewNg 0 0 BSC123 
+Data_Analytics INF321 0 456 3 andrew 0 0 INF312 
+Digital_Multimedia INF322 0 153 3 klam_Man 0 0 CIS150 
+Numerical_Computing SCO313 0 851 3 7sab_man 0 0 CIS150 BSC225 
+Computer_Animation SCO436 0 234 3 artist 0 0 SCO311 
+Distributed_Computing CSC310 0 765 3 builder 0 0 CIS353 
+Mobile_Computing_ INF421 0 654 3 ms.Androide 0 0 CIS150 CIS365 
+Computational_Geometry SCO422 0 3 3 akleedis 0 0 SCO311 
+Neural_Networks_&_Deep_Learning SCO411 0 123 3 mr.robot 0 0 CIS243 CIS270 CSC330 BSC225 
+Computer_Vision SCO421 0 3 3 eagle_eye 0 0 CIS243 
+Microprocessors_&_Interfacing CSY340 0 456 3 hardman 0 0 CIS220 
+Embedded_System CSY350 0 546 3 hardman 0 0 CSY340 
+High_Performance_Computing CSY330 0 3 3 hardman 0 0 CIS353 
+Parallel_and_Distributed_Architectures CSY360 0 356 3 hardman 0 0 CSY330 
+Real-time_Systems CSY420 0 654 3 hardman 0 0 CSY350 
