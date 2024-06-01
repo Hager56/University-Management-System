@@ -1,0 +1,1 @@
+This project was developed as part of a Data Structures course to demonstrate the application of various data structures in managing university operations. The system includes functionalities for managing students, courses, faculty, and enrollments.
